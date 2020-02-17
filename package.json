@@ -11,9 +11,9 @@
   },
   "devDependencies": {},
   "scripts": {
-    "start": "nodemon App.js",
+    "start": "node App.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "ben ayab",
+  "author": " Victor G alias ben ayab",
   "license": "ISC"
 }
